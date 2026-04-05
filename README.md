@@ -1,9 +1,8 @@
-**:: TEAM MEMBERS ::** <br>
-(i) Arnesha Shailesh - ashailesh3009@gmail.com <br>
-(ii) Jay krishna Kumar - jayk.dd22.cs@nitp.ac.in <br>
+**:: Name ::** <br>
+(i) Arnesha Shailesh<br>
 
-** VIDEO LINK. <br>
-https://youtube.com/shorts/YsYlKE1i3sA?si=28GkrtsARQMxpJ7V
+** Live Demo LINK. <br>
+xyz10-5sbz6jlds-arnesha-1s-projects.vercel.app
 
 # PocketTrack Pro – Simple and Effective Finance Dashboard
 
@@ -70,14 +69,14 @@ This is just simulated on the frontend using a dropdown.
 ---
 
 ** Live Demo Link <br>
-xyz10-5sbz6jlds-arnesha-1s-projects.vercel.app
+
 
 ## How to Run
 
 1. Clone the project
 
 ```bash
-git clone <(https://github.com/ARNESHA-1/PocketTrack-Pro)>
+git clone (https://github.com/ARNESHA-1/PocketTrack-Pro)
 cd finance-dashboard
 ```
 
