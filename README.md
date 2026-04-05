@@ -1,8 +1,9 @@
-**:: Name ::** <br>
-(i) Arnesha Shailesh<br>
+**:: TEAM MEMBERS ::** <br>
+(i) Arnesha Shailesh  <br>
 
-** Live Demo LINK. <br>
-xyz10-5sbz6jlds-arnesha-1s-projects.vercel.app
+
+** VIDEO LINK. <br>
+ [https://xyz10-5sbz6jlds-arnesha-1s-projects.vercel.app/]
 
 # PocketTrack Pro – Simple and Effective Finance Dashboard
 
