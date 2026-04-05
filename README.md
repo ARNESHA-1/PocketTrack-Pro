@@ -62,8 +62,8 @@ This is just simulated on the frontend using a dropdown.
 
 ---
 
-## Live Demo Link
-![Link](xyz10-83qpiuap2-arnesha-1s-projects.vercel.app)
+** Live Demo Link <br>
+xyz10-5sbz6jlds-arnesha-1s-projects.vercel.app
 
 ## How to Run
 
