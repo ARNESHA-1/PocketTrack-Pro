@@ -1,7 +1,6 @@
   # PocketTrack Pro – Simple and Effective Finance Dashboard
 
 ## About the Project
-xyz10-83qpiuap2-arnesha-1s-projects.vercel.app
 
 This is a small finance dashboard I built using React. The idea was to create a clean and simple interface where users can track their income and expenses and get a quick overview of their financial situation. I have added visual graph for more usablility and efficent application.
 
@@ -63,12 +62,15 @@ This is just simulated on the frontend using a dropdown.
 
 ---
 
+## Live Demo Link
+link<xyz10-83qpiuap2-arnesha-1s-projects.vercel.app>
+
 ## How to Run
 
 1. Clone the project
 
 ```bash
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/ARNESHA-1/PocketTrack-Pro)>
 cd finance-dashboard
 ```
 
